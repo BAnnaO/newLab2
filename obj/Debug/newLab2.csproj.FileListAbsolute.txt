@@ -1,0 +1,6 @@
+C:\CS\newLab2\newLab2\bin\Debug\newLab2.exe.config
+C:\CS\newLab2\newLab2\bin\Debug\newLab2.exe
+C:\CS\newLab2\newLab2\bin\Debug\newLab2.pdb
+C:\CS\newLab2\newLab2\obj\Debug\newLab2.csprojResolveAssemblyReference.cache
+C:\CS\newLab2\newLab2\obj\Debug\newLab2.exe
+C:\CS\newLab2\newLab2\obj\Debug\newLab2.pdb
